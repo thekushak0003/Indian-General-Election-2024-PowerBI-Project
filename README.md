@@ -81,13 +81,3 @@ To prepare and process the data for meaningful visualization:
 
 ---
 
-## 📷 Dashboard Snapshots
-
-> *(Upload these screenshots to an `/images` folder and link them here)*
-
-```md
-![Overall Analysis](images/overall_analysis.png)
-![State Demographics](images/state_demographics.png)
-![Constituency Analysis](images/constituency_analysis.png)
-![State Analysis](images/state_analysis.png)
-
